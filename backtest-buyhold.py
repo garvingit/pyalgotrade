@@ -1,0 +1,1 @@
+"""testing buy and hold strategy on S&P 500"""
